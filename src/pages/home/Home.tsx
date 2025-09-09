@@ -30,12 +30,9 @@ function Home() {
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
-=======
 
              <ListaPostagens />
              
->>>>>>> 51.2-REACT
         </>
     )
 }
